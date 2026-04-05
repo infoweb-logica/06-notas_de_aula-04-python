@@ -44,7 +44,7 @@
    - no lugar de `x >= y and y >= z` use `x >= y >= z`
 
 ---
-## Exercícios
+## Exercícios [Lista de exercícios](/lista.md)
 1. Tente avaliar os resultados de cada uma das expressões a seguir. Considere que as variáveis A, B e C armazenam respectivamente os valores 2, 7 e False. Caso não consiga, use o interpretador de comandos python para avaliar o resultado.
    - `B == A * 2`
    - `B > A + 5`
@@ -56,5 +56,3 @@
    - `A % 2 != 0`
    - `True or C and A + 1 < B`
    - `(True or C) and A + 1 < B`
-
-FIXME [Lista de exercícios](/lista.md)
